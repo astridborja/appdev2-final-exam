@@ -1,7 +1,7 @@
 # Event Management REST API
 
 ## Introduction
-This API allows users to register, login, and manage events. Users can create events and receive email confirmations.
+This allows users to register, login, and manage events. Users can create events and receive email confirmations.
 
 ## Deployment
 [Live on Render](https://appdev2-final-exam.onrender.com)
