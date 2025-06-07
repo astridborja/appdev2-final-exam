@@ -4,7 +4,7 @@
 This allows users to register, login, and manage events. Users can create events and receive email confirmations.
 
 ## Deployment
-[Live on Render](https://appdev2-final-exam.onrender.com)
+[Live on Render](https://appdev2-final-exam-1.onrender.com)
 
 ## Running Locally
 1. Clone repo
